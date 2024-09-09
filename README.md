@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋! </h2>
 <h5 align="center">My name is Nurislom and I'm a Python Backend Developer, from Uzbekistan</h5>
 
+<img width="80%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" width="500" height="350" />
+
 ### <h1 align="center"> 💻 Technical Skills: </h1>
 
 
