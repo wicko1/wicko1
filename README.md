@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Nurislom and I'm a Python Backend Developer, from Uzbekistan</h2>
 
-###
+### <h1 align="center"> Tech Set: </h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -24,7 +24,7 @@
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="30" alt="graphql logo"  />
 </div>
 
-###
+###<h1 align="center"> Social Networks: </h1>
 
 <div align="center">
   <a href="https://www.instagram.com/23.rahmonov/" target="_blank">
