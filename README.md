@@ -34,5 +34,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wicko1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+# 🙋🏻‍♂️ my github activity
+![Snake Animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
